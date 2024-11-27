@@ -1,0 +1,12 @@
+{
+    "name": "ilya/lab6",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ilya\\Lab6\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
